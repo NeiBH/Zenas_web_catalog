@@ -1,4 +1,4 @@
-import steamlit
+import streamlit
 
 streamlit.title('Zenas Website')
                 
