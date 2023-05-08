@@ -1,4 +1,4 @@
 import steamlit
 
-streanlit.title('Zenas Website')
+streamlit.title('Zenas Website')
                 
